@@ -1,0 +1,6 @@
+﻿This is a test text file
+This line is supposed to be in bold
+This line is supposed to be in italic
+This line is supposed to be underlined
+This line is supposed to be in red
+This line is supposed to be big
